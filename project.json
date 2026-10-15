@@ -1,0 +1,20 @@
+{
+  "name": "x-inspector-pro",
+  "title": "X Inspector Pro — أرشيف التغريدات ومُعبّئ بلاغات X",
+  "category": "أدوات X",
+  "description": "أداة استخراج تغريدات + ابلاغات متنوعة وسريعة.",
+  "liveUrl": "https://x-inspector-pro-qt1o.arcada.app/",
+  "aliases": [],
+  "sourceLinks": [],
+  "originalTitle": "X Inspector Pro — أرشيف التغريدات ومُعبّئ بلاغات X",
+  "originalDescription": "أداة استخراج تغريدات + ابلاغات متنوعة وسريعة.",
+  "type": "static-website",
+  "archivedAt": "2026-10-15",
+  "readyForHosting": true,
+  "files": [
+    "assets/index-B43GMRxl.css",
+    "assets/index-JQW9cTj0.js",
+    "favicon.svg",
+    "index.html"
+  ]
+}
